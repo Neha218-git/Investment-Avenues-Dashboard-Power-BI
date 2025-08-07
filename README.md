@@ -14,7 +14,7 @@ The **Investment Avenues Dashboard** is a Power BI project designed to analyze i
 ---
 
 ## Tools & Technologies Used
-  - **Power BI Desktop**
+- **Power BI Desktop**
   - Power Query (for data transformation)
   - DAX (for calculated columns and measures)
   - Slicers & Filters
